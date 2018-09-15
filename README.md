@@ -1,3 +1,3 @@
 # hello-world
 repository test
-learning to code the right waay finally!
+learning to code the right way finally!
